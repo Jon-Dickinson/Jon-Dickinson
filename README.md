@@ -54,5 +54,5 @@
 
 The Psychology of Intelligence in the AI Era
 
-The defining skill of the coming decades may not be memorization, prediction, or even technical expertise. It may be the capacity to continually reorganize one's own understanding while maintaining purpose, judgment, and ethical responsibility. In this sense, intelligence becomes less about possessing answers and more about maintaining a framework capable of generating increasingly better questions. Perhaps the defining human skill of the AI era is not possessing more knowledge than machines. It is cultivating a mind that can continually reorganize itself as reality changes while preserving coherence. 
+Possessing static knowledge might become less relevant than developing the capacity to continually reorganize one's understanding and then to ask better questions.
 
